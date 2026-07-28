@@ -72,7 +72,7 @@ WorkforceManagementSystem
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WorkforceManagementSystem.git
+git clone https://github.com/Aakashgunasekaran/Work-Force-Management-System.git
 ```
 
 ### Navigate to Project
